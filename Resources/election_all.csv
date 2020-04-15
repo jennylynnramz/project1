@@ -6187,10 +6187,10 @@ year,state,state_po,county,FIPS,office,candidate,party,candidatevotes,totalvotes
 2000,Missouri,MO,St. Francois,29187.0,President,George W. Bush,republican,9327.0,18841,20191203
 2000,Missouri,MO,St. Francois,29187.0,President,Ralph Nader,green,265.0,18841,20191203
 2000,Missouri,MO,St. Francois,29187.0,President,Other,,174.0,18841,20191203
-2000,Missouri,MO,St. Louis County,29189.0,President,Al Gore,democrat,250631.0,486884,20191203
-2000,Missouri,MO,St. Louis County,29189.0,President,George W. Bush,republican,224689.0,486884,20191203
-2000,Missouri,MO,St. Louis County,29189.0,President,Ralph Nader,green,8474.0,486884,20191203
-2000,Missouri,MO,St. Louis County,29189.0,President,Other,,3090.0,486884,20191203
+2000,Missouri,MO,St. Louis,29189.0,President,Al Gore,democrat,250631.0,486884,20191203
+2000,Missouri,MO,St. Louis,29189.0,President,George W. Bush,republican,224689.0,486884,20191203
+2000,Missouri,MO,St. Louis,29189.0,President,Ralph Nader,green,8474.0,486884,20191203
+2000,Missouri,MO,St. Louis,29189.0,President,Other,,3090.0,486884,20191203
 2000,Missouri,MO,Saline,29195.0,President,Al Gore,democrat,4585.0,9355,20191203
 2000,Missouri,MO,Saline,29195.0,President,George W. Bush,republican,4572.0,9355,20191203
 2000,Missouri,MO,Saline,29195.0,President,Ralph Nader,green,131.0,9355,20191203
@@ -17107,9 +17107,9 @@ year,state,state_po,county,FIPS,office,candidate,party,candidatevotes,totalvotes
 2004,Missouri,MO,St. Francois,29187.0,President,John Kerry,democrat,10748.0,22933,20191203
 2004,Missouri,MO,St. Francois,29187.0,President,George W. Bush,republican,12087.0,22933,20191203
 2004,Missouri,MO,St. Francois,29187.0,President,Other,,98.0,22933,20191203
-2004,Missouri,MO,St. Louis County,29189.0,President,John Kerry,democrat,295284.0,542983,20191203
-2004,Missouri,MO,St. Louis County,29189.0,President,George W. Bush,republican,244969.0,542983,20191203
-2004,Missouri,MO,St. Louis County,29189.0,President,Other,,2730.0,542983,20191203
+2004,Missouri,MO,St. Louis,29189.0,President,John Kerry,democrat,295284.0,542983,20191203
+2004,Missouri,MO,St. Louis,29189.0,President,George W. Bush,republican,244969.0,542983,20191203
+2004,Missouri,MO,St. Louis,29189.0,President,Other,,2730.0,542983,20191203
 2004,Missouri,MO,Saline,29195.0,President,John Kerry,democrat,4479.0,9939,20191203
 2004,Missouri,MO,Saline,29195.0,President,George W. Bush,republican,5389.0,9939,20191203
 2004,Missouri,MO,Saline,29195.0,President,Other,,71.0,9939,20191203
@@ -26458,9 +26458,9 @@ year,state,state_po,county,FIPS,office,candidate,party,candidatevotes,totalvotes
 2008,Missouri,MO,St. Francois,29187.0,President,Barack Obama,democrat,11540.0,24550,20191203
 2008,Missouri,MO,St. Francois,29187.0,President,John McCain,republican,12660.0,24550,20191203
 2008,Missouri,MO,St. Francois,29187.0,President,Other,,350.0,24550,20191203
-2008,Missouri,MO,St. Louis County,29189.0,President,Barack Obama,democrat,333123.0,559854,20191203
-2008,Missouri,MO,St. Louis County,29189.0,President,John McCain,republican,221705.0,559854,20191203
-2008,Missouri,MO,St. Louis County,29189.0,President,Other,,5026.0,559854,20191203
+2008,Missouri,MO,St. Louis,29189.0,President,Barack Obama,democrat,333123.0,559854,20191203
+2008,Missouri,MO,St. Louis,29189.0,President,John McCain,republican,221705.0,559854,20191203
+2008,Missouri,MO,St. Louis,29189.0,President,Other,,5026.0,559854,20191203
 2008,Missouri,MO,Saline,29195.0,President,Barack Obama,democrat,4712.0,9848,20191203
 2008,Missouri,MO,Saline,29195.0,President,John McCain,republican,4962.0,9848,20191203
 2008,Missouri,MO,Saline,29195.0,President,Other,,174.0,9848,20191203
@@ -35809,9 +35809,9 @@ year,state,state_po,county,FIPS,office,candidate,party,candidatevotes,totalvotes
 2012,Missouri,MO,St. Francois,29187.0,President,Barack Obama,democrat,8829.0,22582,20191203
 2012,Missouri,MO,St. Francois,29187.0,President,Mitt Romney,republican,13248.0,22582,20191203
 2012,Missouri,MO,St. Francois,29187.0,President,Other,,505.0,22582,20191203
-2012,Missouri,MO,St. Louis County,29189.0,President,Barack Obama,democrat,297097.0,528676,20191203
-2012,Missouri,MO,St. Louis County,29189.0,President,Mitt Romney,republican,224742.0,528676,20191203
-2012,Missouri,MO,St. Louis County,29189.0,President,Other,,6837.0,528676,20191203
+2012,Missouri,MO,St. Louis,29189.0,President,Barack Obama,democrat,297097.0,528676,20191203
+2012,Missouri,MO,St. Louis,29189.0,President,Mitt Romney,republican,224742.0,528676,20191203
+2012,Missouri,MO,St. Louis,29189.0,President,Other,,6837.0,528676,20191203
 2012,Missouri,MO,Saline,29195.0,President,Barack Obama,democrat,3790.0,9108,20191203
 2012,Missouri,MO,Saline,29195.0,President,Mitt Romney,republican,5104.0,9108,20191203
 2012,Missouri,MO,Saline,29195.0,President,Other,,214.0,9108,20191203
@@ -45160,9 +45160,9 @@ year,state,state_po,county,FIPS,office,candidate,party,candidatevotes,totalvotes
 2016,Missouri,MO,St. Francois,29187.0,President,Hillary Clinton,democrat,6250.0,24728,20191203
 2016,Missouri,MO,St. Francois,29187.0,President,Donald Trump,republican,17468.0,24728,20191203
 2016,Missouri,MO,St. Francois,29187.0,President,Other,,1010.0,24728,20191203
-2016,Missouri,MO,St. Louis County,29189.0,President,Hillary Clinton,democrat,286704.0,514858,20191203
-2016,Missouri,MO,St. Louis County,29189.0,President,Donald Trump,republican,202434.0,514858,20191203
-2016,Missouri,MO,St. Louis County,29189.0,President,Other,,25720.0,514858,20191203
+2016,Missouri,MO,St. Louis,29189.0,President,Hillary Clinton,democrat,286704.0,514858,20191203
+2016,Missouri,MO,St. Louis,29189.0,President,Donald Trump,republican,202434.0,514858,20191203
+2016,Missouri,MO,St. Louis,29189.0,President,Other,,25720.0,514858,20191203
 2016,Missouri,MO,Saline,29195.0,President,Hillary Clinton,democrat,2789.0,9274,20191203
 2016,Missouri,MO,Saline,29195.0,President,Donald Trump,republican,5977.0,9274,20191203
 2016,Missouri,MO,Saline,29195.0,President,Other,,508.0,9274,20191203
